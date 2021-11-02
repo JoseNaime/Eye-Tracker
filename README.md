@@ -10,6 +10,7 @@ You need to fork and download the project in your local machine, drag and drop t
 
 
 [![Eyes](http://i3.ytimg.com/vi/vMvwfOjUM68/maxresdefault.jpg)](https://youtu.be/vMvwfOjUM68 "Eyes")
+**Click the image to watch video**
 
 ## Roadmap
 > V1.0
